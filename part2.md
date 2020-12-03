@@ -188,7 +188,7 @@ Pode também ser um diagrama de sequência da parte mais importante do protocolo
 ----------------
 
 As instruções de instalação e configuração de todo o sistema, elaboradas na primeira parte, devem ser atualizadas no documento `demo/README.md`.  
-Como referência, pode ser consultado um [guião de demonstração de exemplo](TBD/README.md). 
+<!--Como referência, pode ser consultado um [guião de demonstração de exemplo](TBD/README.md).--> 
 
 Para a segunda parte deve ser criada uma **nova secção** no guião, dedicada à **replicação e tolerância a faltas**.
 Nesta nova secção, devem ser indicados os comandos para: lançar réplicas, fornecer dados, fazer interrogações, etc.
